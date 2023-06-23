@@ -1,4 +1,4 @@
-https://i.ibb.co/Lr6ysXR/Screenshot-4.jpg# P7ROBOTICS Starter Repository
+![App Screenshot](https://i.ibb.co/Lr6ysXR/Screenshot-4.jpg/468x300?text=App+Screenshot+Here)
 
 P7ROBOTICS is robotics toy website that available different and custom type toy!
 
